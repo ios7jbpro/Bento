@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'ios7jbpro',
   imageBackground: false,
   openInNewTab: true,
 
